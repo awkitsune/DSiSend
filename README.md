@@ -18,9 +18,7 @@ Your PC needs to be in the same network with your DSi
 4. Download file to your DSi✨
 
 ## Bugs
-1. Empty downloading file name in [DSi Downloader](https://github.com/Epicpkmn11/dsidl)
-    - __Note:__ The bug itself seems to be in a way [DSi Downloader](https://github.com/Epicpkmn11/dsidl) parsing downloadable file name. Way to solve it is to use `"Content-Disposition", $"attachment; filename={filename}"` header parsing in DSi Downloader itself, maybe I'll do a PR in the program repository 
-2. __To be tested:__ Sometimes app crashes when opening new file
+1. You tell me
 
 ## TODO
 1. Add workaround for UAC prompt on every startup, because it's so annoying
