@@ -1,8 +1,8 @@
-# ![App icon](https://github.com/awkitsune/DSiSend/blob/main/DSiSend/icon.ico) DSiSend
+# ![App icon](https://github.com/awkitsune/DSiSend/blob/master/DSiSend/icon.ico) DSiSend
 
 Simple .net 6.0 app to send files to DSi
 
-![App screenshot](https://github.com/awkitsune/DSiSend/blob/main/appScreenshot1.png)
+![App screenshot](https://github.com/awkitsune/DSiSend/blob/master/appScreenshot1.png)
 
 ### Notes
 
